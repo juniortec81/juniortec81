@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juniortec81
-- 👀 I’m interested in finishing Capstone Spring 2022
+- 👀 I’m interested in school.
 - 🌱 I’m currently learning Javascript, Linux, Python, C
 
 <!---
